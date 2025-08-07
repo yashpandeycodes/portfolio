@@ -1,0 +1,101 @@
+#Name{
+    height: 80px;
+    display: flex;
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px aqua solid;
+    padding: 2px;
+    padding-top: 40px;
+    margin: 5px;
+    flex-direction: row;
+    justify-content: center;
+}
+.Links{
+    border: 3px blueviolet solid;
+    padding: 5px;
+    margin: 5px;
+    background-color: bisque;
+    color: rgb(207,66,207);
+    font-family: cursive;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    border: 5px black solid;
+
+}
+#EdT{
+    border: 2px aqua solid;
+    padding:2px;
+    margin: 2px;
+    background-color: black;
+    color: beige;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+}
+#Ed{
+    background-color: yellow;
+    color: rgb(220,0,200);
+    font-style: italic;
+    padding: 1px;
+}
+#ST{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    color: gold;
+    font-style:oblique;
+    border: 2px black solid;
+    padding: 2px;
+    margin: 2px;
+}
+#scores{
+    background-color: tomato;
+    color: snow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#HS{
+background-color: black;
+color: aqua;
+border: 2px green solid;
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+#Skills{
+background-color: pink;
+color: black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding: 2px;
+}
+.about{
+    font-size: 20px;
+    background-color: chartreuse;
+    font-style: italic;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.First{
+    padding-top: 125px;
+    font-size: 25px;
+    background-color: aliceblue;
+}
+#H{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.THE{
+    background-color: silver;
+}
+.Heading{
+    background-color:darkorchid ;
+}
